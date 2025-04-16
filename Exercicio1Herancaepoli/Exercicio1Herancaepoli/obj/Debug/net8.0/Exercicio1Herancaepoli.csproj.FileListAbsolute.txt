@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\bin\Debug\net8.0\Exercicio1Herancaepoli.exe
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\bin\Debug\net8.0\Exercicio1Herancaepoli.deps.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\bin\Debug\net8.0\Exercicio1Herancaepoli.runtimeconfig.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\bin\Debug\net8.0\Exercicio1Herancaepoli.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\bin\Debug\net8.0\Exercicio1Herancaepoli.pdb
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\Exercicio1Herancaepoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\Exercicio1Herancaepoli.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\Exercicio1Herancaepoli.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\Exercicio1Herancaepoli.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\Exercicio1Herancaepoli.sourcelink.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\Exercicio1Herancaepoli.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\refint\Exercicio1Herancaepoli.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\Exercicio1Herancaepoli.pdb
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\Exercicio1Herancaepoli.genruntimeconfig.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\Exercicio1Herancaepoli\Exercicio1Herancaepoli\obj\Debug\net8.0\ref\Exercicio1Herancaepoli.dll

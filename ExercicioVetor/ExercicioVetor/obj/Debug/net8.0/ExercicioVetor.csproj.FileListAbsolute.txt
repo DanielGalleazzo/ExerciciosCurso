@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\bin\Debug\net8.0\ExercicioVetor.exe
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\bin\Debug\net8.0\ExercicioVetor.deps.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\bin\Debug\net8.0\ExercicioVetor.runtimeconfig.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\bin\Debug\net8.0\ExercicioVetor.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\bin\Debug\net8.0\ExercicioVetor.pdb
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ExercicioVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ExercicioVetor.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ExercicioVetor.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ExercicioVetor.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ExercicioVetor.sourcelink.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ExercicioVetor.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\refint\ExercicioVetor.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ExercicioVetor.pdb
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ExercicioVetor.genruntimeconfig.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioVetor\ExercicioVetor\obj\Debug\net8.0\ref\ExercicioVetor.dll

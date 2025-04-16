@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\bin\Debug\net8.0\ExercicioPropostoHeranca.exe
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\bin\Debug\net8.0\ExercicioPropostoHeranca.deps.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\bin\Debug\net8.0\ExercicioPropostoHeranca.runtimeconfig.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\bin\Debug\net8.0\ExercicioPropostoHeranca.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\bin\Debug\net8.0\ExercicioPropostoHeranca.pdb
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ExercicioPropostoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ExercicioPropostoHeranca.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ExercicioPropostoHeranca.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ExercicioPropostoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ExercicioPropostoHeranca.sourcelink.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ExercicioPropostoHeranca.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\refint\ExercicioPropostoHeranca.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ExercicioPropostoHeranca.pdb
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ExercicioPropostoHeranca.genruntimeconfig.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\ExercicioPropostoHeranca\ExercicioPropostoHeranca\obj\Debug\net8.0\ref\ExercicioPropostoHeranca.dll

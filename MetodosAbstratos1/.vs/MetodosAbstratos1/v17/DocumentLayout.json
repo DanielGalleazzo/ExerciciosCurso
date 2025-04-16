@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|c:\\users\\danie\\desktop\\exercicios n\u00E9lio alves\\metodosabstratos1\\metodosabstratos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|solutionrelative:metodosabstratos1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|c:\\users\\danie\\desktop\\exercicios n\u00E9lio alves\\metodosabstratos1\\metodosabstratos1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|solutionrelative:metodosabstratos1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|c:\\users\\danie\\desktop\\exercicios n\u00E9lio alves\\metodosabstratos1\\metodosabstratos1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|solutionrelative:metodosabstratos1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|c:\\users\\danie\\desktop\\exercicios n\u00E9lio alves\\metodosabstratos1\\metodosabstratos1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|solutionrelative:metodosabstratos1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|c:\\users\\danie\\desktop\\exercicios n\u00E9lio alves\\metodosabstratos1\\metodosabstratos1\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD541378-988E-4AA7-A91A-C29DDC9A4EB2}|MetodosAbstratos1\\MetodosAbstratos1.csproj|solutionrelative:metodosabstratos1\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Program.cs",
+              "RelativeDocumentMoniker": "MetodosAbstratos1\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Program.cs",
+              "RelativeToolTip": "MetodosAbstratos1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:57:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Circle.cs",
+              "RelativeDocumentMoniker": "MetodosAbstratos1\\Circle.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Circle.cs",
+              "RelativeToolTip": "MetodosAbstratos1\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:06:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "MetodosAbstratos1\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Rectangle.cs",
+              "RelativeToolTip": "MetodosAbstratos1\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T00:04:09.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Color.cs",
+              "RelativeDocumentMoniker": "MetodosAbstratos1\\Color.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Color.cs",
+              "RelativeToolTip": "MetodosAbstratos1\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:59:34.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Shape.cs",
+              "RelativeDocumentMoniker": "MetodosAbstratos1\\Shape.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Exercicios N\u00E9lio Alves\\MetodosAbstratos1\\MetodosAbstratos1\\Shape.cs",
+              "RelativeToolTip": "MetodosAbstratos1\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:58:37.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

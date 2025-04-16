@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\bin\Debug\net8.0\MetodoAbstrato2.exe
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\bin\Debug\net8.0\MetodoAbstrato2.deps.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\bin\Debug\net8.0\MetodoAbstrato2.runtimeconfig.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\bin\Debug\net8.0\MetodoAbstrato2.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\bin\Debug\net8.0\MetodoAbstrato2.pdb
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\MetodoAbstrato2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\MetodoAbstrato2.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\MetodoAbstrato2.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\MetodoAbstrato2.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\MetodoAbstrato2.sourcelink.json
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\MetodoAbstrato2.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\refint\MetodoAbstrato2.dll
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\MetodoAbstrato2.pdb
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\MetodoAbstrato2.genruntimeconfig.cache
+C:\Users\danie\Desktop\Exercicios Nélio Alves\MetodoAbstrato2\MetodoAbstrato2\obj\Debug\net8.0\ref\MetodoAbstrato2.dll

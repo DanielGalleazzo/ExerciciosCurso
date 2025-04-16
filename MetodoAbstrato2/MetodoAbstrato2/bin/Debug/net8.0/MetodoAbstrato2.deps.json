@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MetodoAbstrato2/1.0.0": {
+        "runtime": {
+          "MetodoAbstrato2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MetodoAbstrato2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
