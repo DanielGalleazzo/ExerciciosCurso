@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\Desktop\\Exercicios Nélio Alves\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli.csproj": {}
+    "C:\\Users\\danie\\Desktop\\visual studio\\ExercíciosCurso\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\Desktop\\Exercicios Nélio Alves\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli.csproj": {
+    "C:\\Users\\danie\\Desktop\\visual studio\\ExercíciosCurso\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Desktop\\Exercicios Nélio Alves\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Desktop\\visual studio\\ExercíciosCurso\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli.csproj",
         "projectName": "Exercicio1Herancaepoli",
-        "projectPath": "C:\\Users\\danie\\Desktop\\Exercicios Nélio Alves\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli.csproj",
+        "projectPath": "C:\\Users\\danie\\Desktop\\visual studio\\ExercíciosCurso\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Desktop\\Exercicios Nélio Alves\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Desktop\\visual studio\\ExercíciosCurso\\Exercicio1Herancaepoli\\Exercicio1Herancaepoli\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
